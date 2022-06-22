@@ -1,5 +1,5 @@
 # PLSQL
-Prjoct 1:
+Project 1:
          creating a sequence/trigger for all tables in the database automatically, before inserting into table, it use the sequence for updating the primary key column with the new vlaue of the sequence (nextval).
 Project 2:
           after creating the required table (script exists with files) and fill it with the data, the task is to update the table with: 
